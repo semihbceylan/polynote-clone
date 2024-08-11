@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	text-align: center;
+}
+nav {
+	position: sticky;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+header{
+	width:1280px;
+	margin: auto;
+}
+.container{
+	width:1280px;
+	margin: auto;
+}
+section{
+	width:1280px;
+	margin: auto;
+}
+img{
+	width: 100%;
+}
+span.blue{
+	color:rgb(37 99 235);
+}
+span.orange{
+	color:rgb(251 146 60);
+}
+span.green{
+	color:rgb(22 163 74);
+}
+.tech-stack-logo-container{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.tech-stack-logo{
+	width:40px;
+}
